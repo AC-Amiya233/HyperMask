@@ -1,2 +1,3 @@
 # HyperMask
-A implementation of hypernetwork
+A implementation of hypernetwork with not solved bugs. 
+
